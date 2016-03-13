@@ -1,0 +1,13 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.main {
+    display: flex;
+    height: 100%;
+    &__about{
+        max-width: 400px;
+        margin:  auto;
+    }
+}

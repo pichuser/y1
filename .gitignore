@@ -1,0 +1,7 @@
+node_modules
+.idea
+dist
+dist1
+npm-debug.log
+typings
+maps
